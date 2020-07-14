@@ -8,6 +8,7 @@ I'm Thomas George Thomas, A data engineer passionate about Data Science.:bar_cha
 - 💬 Talk to me about Big Data, Hadoop, AWS, Kafka and Data Science
 - 🌱 I’m currently pursuing Machine learning
 
+<br>
 
 <!--
 **Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,12 +25,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
+<hr \>
 
 <p align="center">
-  You miss 100% of the shots that you don't take.
-  <br>
   A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
+  <br>
+  You miss 100% of the shots that you don't take.
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Thomas-George-T.Thomas-George-T"/>
 </p>
