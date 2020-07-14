@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Thomas George Thomas** , A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and performance tuning. Strong Advocate for 📜 open source, :cloud: Cloud computing, DevOps and Innovative Automation :robot: 
+I'm **Thomas George Thomas**, A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and performance tuning. Strong Advocate for 📜 open source, :cloud: Cloud computing, DevOps and Innovative Automation :robot: 
 
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory* aspect that even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
