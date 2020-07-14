@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm **Thomas George Thomas**, A data engineer passionate about Data Science.:bar_chart:. I like automating things to make life simpler, exploring scalability problems and performance tuning. Strong Advocate for 📜 open source, :cloud: Cloud computing, DevOps and Innovative Automation :robot: 
+I'm **Thomas George Thomas**, A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and performance tuning. Strong Advocate for 📜 open source, :cloud: Cloud computing, DevOps and Innovative Automation :robot: 
 
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory* aspect that even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on Twitter Sentimental Analysis
-- 💬 Talk to me about **Big Data, Hadoop, Spark, Scala, AWS, Kafka and Data Science**
+- 💬 Talk to me about **Big Data, Hadoop, Spark, Scala, Python, Bamboo, AWS, Kafka and Data Science**
 - 🌱 I’m currently pursuing Machine learning
 
 <br>
