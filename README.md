@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Thomas George Thomas**, A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and performance tuning. Strong Advocate for 📜 open source, :cloud: Cloud computing, DevOps and Innovative Automation :robot: 
+I'm **Thomas George Thomas** , A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and performance tuning. Strong Advocate for 📜 open source, :cloud: Cloud computing, DevOps and Innovative Automation :robot: 
 
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory* aspect that even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 -->
 
 Do star my work if you found it interesting, it helps me stay on track and be motivated.
+<a href="https://twitter.com/intent/follow?screen_name=Thomas_George_T">
+          <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThomas_George_T">
+</a>
 
 <hr \>
 
@@ -36,7 +39,4 @@ Do star my work if you found it interesting, it helps me stay on track and be mo
    <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Thomas-George-T.Thomas-George-T"/>
   <br>
-    <a href="https://twitter.com/intent/follow?screen_name=Thomas_George_T">
-          <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThomas_George_T">
-    </a> 
 </p>
