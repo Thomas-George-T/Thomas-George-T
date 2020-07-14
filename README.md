@@ -33,6 +33,10 @@ Do star my work if you found it interesting, it helps me stay on track and be mo
   A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
   <br>
   You miss 100% of the shots you don't take.
-  <br>
+   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Thomas-George-T.Thomas-George-T"/>
+  <br>
+    <a href="https://twitter.com/intent/follow?screen_name=Thomas_George_T">
+          <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThomas_George_T">
+    </a> 
 </p>
