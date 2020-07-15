@@ -3,7 +3,7 @@
 I'm **Thomas George Thomas**, A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and performance tuning. Strong Advocate for 📜 open source, :cloud: Cloud computing, DevOps and Innovative Automation :robot: 
 
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory* aspect that even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on Twitter Sentimental Analysis
 - 💬 Talk to me about **Big Data, Hadoop, Spark, Scala, Python, Bamboo, AWS, Kafka and Data Science**
 - 🌱 I’m currently pursuing Machine learning
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Do star my work if you found it interesting, it helps me stay on track and be motivated.
+Do star my work if you find it interesting, it helps me stay on track and be motivated.
 <a href="https://twitter.com/intent/follow?screen_name=Thomas_George_T">
           <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThomas_George_T">
 </a>
@@ -37,6 +37,7 @@ Do star my work if you found it interesting, it helps me stay on track and be mo
   <br>
   You miss 100% of the shots you don't take.
    <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Thomas-George-T.Thomas-George-T"/>
-  <br>
+       <a href="#">
+          <img src ="http://hits.dwyl.com/Thomas-George-Thomas/Thomas-George-Thomas.svg" alt="Visitor count"/>
+       </a>
 </p>
