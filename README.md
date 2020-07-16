@@ -33,9 +33,9 @@ Do star my work if you find it interesting, it helps me stay on track and be mot
 <hr \>
 
 <p align="center">
-  A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
-  <br>
-  You miss 100% of the shots you don't take.
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
    <br>
 <!--
 <a href="#">
