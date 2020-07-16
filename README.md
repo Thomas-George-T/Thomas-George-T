@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 -->
 
 Do star my work if you find it interesting, it helps me stay on track and be motivated.
-<a href="https://twitter.com/intent/follow?screen_name=Thomas_George_T">
-          <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThomas_George_T">
-</a>
+
 
 <hr \>
 
@@ -37,6 +35,9 @@ Do star my work if you find it interesting, it helps me stay on track and be mot
    <br>
    <i>You miss 100% of the shots you don't take.</i>
    <br>
+          <a href="https://twitter.com/intent/follow?screen_name=Thomas_George_T">
+          <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThomas_George_T">
+</a>
 <!--
 <a href="#">
           <img src ="http://hits.dwyl.com/Thomas-George-Thomas/Thomas-George-Thomas.svg" alt="Visitor count"/>
