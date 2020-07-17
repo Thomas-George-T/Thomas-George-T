@@ -1,3 +1,5 @@
+![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg)
+
 ### Hi there 👋 I'm Thomas George Thomas,
 
 A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and performance tuning. Strong Advocate for 📜 open source, :cloud: Cloud computing, DevOps and Innovative Automation :robot: 
@@ -27,7 +29,6 @@ Here are some ideas to get you started:
 
 Do star my work if you find it interesting, it helps me stay on track and be motivated.
 
-
 <hr \>
 
 <p align="center">
@@ -36,11 +37,7 @@ Do star my work if you find it interesting, it helps me stay on track and be mot
    <i>You miss 100% of the shots you don't take.</i>
    <br>
           <a href="https://twitter.com/intent/follow?screen_name=Thomas_George_T">
-          <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThomas_George_T">
-</a>
-<!--
-<a href="#">
-          <img src ="http://hits.dwyl.com/Thomas-George-Thomas/Thomas-George-Thomas.svg" alt="Visitor count"/>
-       </a>
--->
-</p>
+               <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThomas_George_T">
+          </a>
+ </p>       
+ 
