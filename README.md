@@ -1,12 +1,5 @@
-<p align="left">
-	<a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" src="/assets/linkedin.svg" /> </a>
-	<a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="/assets/twitter.svg" /> </a>
-	<img alt="ViewCount" src="https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg?cache=remove"/>
-</p>
-
-<!--
+![GitHub](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg?cache=remove)
--->
 
 ### Hi there 👋 I'm Thomas George Thomas,
 
@@ -35,17 +28,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Do star my work if you find it interesting, it helps me stay on track and be motivated.
+Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
 
+<p align="center">
+	<a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" src="/assets/linkedin.svg" width="100" height="50" hspace="5"> </a>
+	<a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="/assets/twitter.svg" width="100" height="50" /> </a>
+</p>
 <hr \>
-
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
-   <br>
-          <a href="https://twitter.com/intent/follow?screen_name=Thomas_George_T">
-               <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FThomas_George_T">
-          </a>
  </p>       
  
