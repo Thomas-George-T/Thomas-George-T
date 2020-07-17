@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" src="/assets/linkedin.svg" width="100" height="50" hspace="5"> </a>
-	<a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="/assets/twitter.svg" width="100" height="50" /> </a>
+    <a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" title="Linkedin" src="/assets/linkedin.svg" width="100" height="50" hspace="5" /></a>
+    <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="/assets/twitter.svg" title="Twitter" width="100" height="50" /> </a>
 </p>
 <hr \>
 <p align="center">
