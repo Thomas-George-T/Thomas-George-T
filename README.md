@@ -11,6 +11,19 @@ A data engineer passionate about Data Science.:bar_chart:. I like automating thi
 - 💬 Talk to me about **Big Data, Hadoop, Spark, Scala, Python, Bamboo, AWS, Kafka and Data Science**
 - 🌱 I’m currently pursuing Machine learning
 
+### My skills include
+
+<p align="left">
+	<img title="Hadoop" src="/assets/hadoop.svg" width="5" height="5" />
+	<img title="Spark" src="/assets/apache_spark.svg" width="5" height="5" />
+	<img title="Scala" src="/assets/scala.svg" width="5" height="5" />
+	<img title="Python" src="/assets/python.svg" width="5" height="5" />
+	<img title="Bamboo" src="/assets/bamboo.svg" width="5" height="5" />
+	<img title="AWS" src="/assets/aws.svg" width="5" height="5" />
+	<img title="Kafka" src="/assets/kafka.svg" width="5" height="5" />
+</p>
+
+
 <br>
 
 <!--
@@ -32,7 +45,8 @@ Do :star: my work if you find it interesting, it helps me stay on track and be m
 
 <p align="center">
     <a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" title="Linkedin" src="/assets/linkedin.svg" width="100" height="50" hspace="5" /></a>
-    <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="/assets/twitter.svg" title="Twitter" width="100" height="50" /> </a>
+    <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="/assets/twitter.svg" title="Twitter" width="100" height="50" /></a>
+    <a href="mailto:thomasgeorgethomas@gmail.com"><img alt="Gmail" src="/assets/google-gmail.svg" title="Email" width="100" height="50" /></a>
 </p>
 <hr \>
 <p align="center">
