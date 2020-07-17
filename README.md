@@ -3,28 +3,27 @@
 
 ### Hi there 👋 I'm Thomas George Thomas,
 
-A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and performance tuning. Strong Advocate for 📜 open source, :cloud: Cloud computing, DevOps and Innovative Automation :robot: 
+A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, DevOps and Innovative Automation :robot: 
 
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on Twitter Sentimental Analysis
-- 💬 Talk to me about **Big Data, Hadoop, Spark, Scala, Python, Bamboo, AWS, Kafka and Data Science**
+- :bulb: I'm interested in **Big Data, Cloud, Machine Learning and Data Science**
+- 💬 Talk to me about :racing_car: Formula 1, Memes, anything that interests you.
 - 🌱 I’m currently pursuing Machine learning
 
 ### My skills include
 
 <p align="left">
-	<img title="Hadoop" src="/assets/hadoop.svg" width="5" height="5" />
-	<img title="Spark" src="/assets/apache_spark.svg" width="5" height="5" />
-	<img title="Scala" src="/assets/scala.svg" width="5" height="5" />
-	<img title="Python" src="/assets/python.svg" width="5" height="5" />
-	<img title="Bamboo" src="/assets/bamboo.svg" width="5" height="5" />
-	<img title="AWS" src="/assets/aws.svg" width="5" height="5" />
-	<img title="Kafka" src="/assets/kafka.svg" width="5" height="5" />
+	<img title="Hadoop" src="/assets/hadoop.svg" width="70" height="40" />
+	<img title="Spark" src="/assets/apache_spark.png" width="40" height="40" />
+	<img title="Scala" src="/assets/scala.svg" width="40" height="40" />
+	<img title="Python" src="/assets/python.svg" width="40" height="40" />
+	<img title="Bamboo" src="/assets/bamboo.svg" width="40" height="40" />
+	<img title="AWS" src="/assets/aws.svg" width="70" height="40" />
+	<img title="Kafka" src="/assets/kafka.svg" width="100" height="40" />
+	<img title="Git" src="/assets/git.svg" width="100" height="40" />
 </p>
-
-
-<br>
 
 <!--
 **Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,5 +52,5 @@ Do :star: my work if you find it interesting, it helps me stay on track and be m
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
- </p>       
+</p>       
  
