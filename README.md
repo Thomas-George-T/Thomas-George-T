@@ -16,13 +16,13 @@ A data engineer passionate about Data Science.:bar_chart:. I like automating thi
 
 <p align="left">
 	<img title="Hadoop" src="/assets/hadoop.svg" width="70" height="40" />
-	<img title="Spark" src="/assets/apache_spark.png" width="40" height="40" />
+	<img title="Spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60" height="40" />
 	<img title="Scala" src="/assets/scala.svg" width="40" height="40" />
 	<img title="Python" src="/assets/python.svg" width="40" height="40" />
 	<img title="Bamboo" src="/assets/bamboo.svg" width="40" height="40" />
 	<img title="AWS" src="/assets/aws.svg" width="70" height="40" />
 	<img title="Kafka" src="/assets/kafka.svg" width="100" height="40" />
-	<img title="Git" src="/assets/git.svg" width="100" height="40" />
+	<img title="Git" src="/assets/git.svg" width="70" height="40" />
 </p>
 
 <!--
@@ -44,8 +44,8 @@ Do :star: my work if you find it interesting, it helps me stay on track and be m
 
 <p align="center">
     <a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" title="Linkedin" src="/assets/linkedin.svg" width="100" height="50" hspace="5" /></a>
-    <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="/assets/twitter.svg" title="Twitter" width="100" height="50" /></a>
     <a href="mailto:thomasgeorgethomas@gmail.com"><img alt="Gmail" src="/assets/google-gmail.svg" title="Email" width="100" height="50" /></a>
+    <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="/assets/twitter.svg" title="Twitter" width="100" height="50" /></a>
 </p>
 <hr \>
 <p align="center">
