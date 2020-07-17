@@ -1,4 +1,12 @@
+<p align="left">
+	<a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" src="/assets/linkedin.svg" /> </a>
+	<a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="/assets/twitter.svg" /> </a>
+	<img alt="ViewCount" src="https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg?cache=remove"/>
+</p>
+
+<!--
 ![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg?cache=remove)
+-->
 
 ### Hi there 👋 I'm Thomas George Thomas,
 
