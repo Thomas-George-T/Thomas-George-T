@@ -1,3 +1,5 @@
+![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg?cache=remove)
+
 ### Hi there 👋 I'm Thomas George Thomas,
 
 A data engineer passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and performance tuning. Strong Advocate for 📜 open source, :cloud: Cloud computing, DevOps and Innovative Automation :robot: 
