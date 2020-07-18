@@ -15,7 +15,7 @@ A data engineer passionate about Data Science.:bar_chart:. I like automating thi
 ### My skills include
 
 <p align="left">
-	<img title="Hadoop" src="/assets/hadoop.svg" width="200" height="240" />
+	<img title="Hadoop" src="/assets/hadoop.svg" width="70" height="40" />
 	<img title="Spark" src="/assets/apache_spark.svg" width="70" height="40" />
 	<img title="Scala" src="/assets/scala.svg" width="40" height="40" />
 	<img title="Python" src="/assets/python.svg" width="40" height="40" />
