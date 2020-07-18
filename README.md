@@ -15,14 +15,14 @@ A data engineer passionate about Data Science.:bar_chart:. I like automating thi
 ### My skills include
 
 <p align="left">
-	<img title="Hadoop" src="/assets/hadoop.svg" width="70" height="40" />
-	<img title="Spark" src="/assets/apache_spark.svg" width="70" height="40" />
-	<img title="Scala" src="/assets/scala.svg" width="40" height="40" />
-	<img title="Python" src="/assets/python.svg" width="40" height="40" />
-	<img title="Bamboo" src="/assets/bamboo.svg" width="40" height="40" />
-	<img title="AWS" src="/assets/aws.svg" width="60" height="40" />
-	<img title="Kafka" src="/assets/kafka.svg" width="100" height="40" />
-	<img title="Git" src="/assets/git.svg" width="70" height="40" />
+	<img title="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
+	<img title="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="70" height="40" />
+	<img title="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
+	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
+	<img title="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />
+	<img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
+	<img title="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="100" height="40" />
+	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 </p>
 
 <!--
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" title="Linkedin" src="/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="mailto:thomasgeorgethomas@gmail.com"><img alt="Gmail" src="/assets/google_gmail.svg" title="Email" width="100" height="30" /></a>
+    <a href="mailto:thomasgeorgethomas@gmail.com"><img alt="Gmail" src="/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
     <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
 </p>
 <hr \>
