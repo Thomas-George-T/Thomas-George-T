@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
     
-**If you find my work good, consider :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
+**If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
    
 <br>
 <p align="center">
