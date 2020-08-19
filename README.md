@@ -46,19 +46,11 @@ Here are some ideas to get you started:
 -->
     
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
-   
-<br>
 
-
-<p align="center">
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/thomasgeorgethomas)
-[<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:thomasgeorgethomas@gmail.com)
-[<img alt="Medium" src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white">](https://medium.com/@tgt555)
-[<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">](https://twitter.com/Thomas_George_T)
-
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomasgeorgethomas)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:thomasgeorgethomas@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@tgt555)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Thomas_George_T)
 
 <hr \>
 <p align="center">
