@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
+![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg?cache=remove)
 
 ### Hi there 👋 I'm Thomas George Thomas,
@@ -10,7 +10,6 @@ A data engineer passionate about Data Science :bar_chart:. I like automating thi
 - 🔭 I’m currently working on:
 	- Linear regression on Health data
 	- Twitter Sentimental Analysis using NLP and clustering
-	- Data science certification
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
 - 🌱 I’m currently pursuing **Machine learning**.
@@ -33,7 +32,7 @@ A data engineer passionate about Data Science :bar_chart:. I like automating thi
 
 <!--
 **Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+T
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -49,11 +48,18 @@ Here are some ideas to get you started:
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
    
 <br>
+
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="mailto:thomasgeorgethomas@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/thomasgeorgethomas)
+[<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:thomasgeorgethomas@gmail.com)
+[<img alt="Medium" src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white">](https://medium.com/@tgt555)
+[<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">](https://twitter.com/Thomas_George_T)
+
 </p>
+
+
 <hr \>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
