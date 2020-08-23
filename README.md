@@ -47,11 +47,7 @@ Here are some ideas to get you started:
 
 
 ### My Recent post on Medium!
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium">
-
-    
-    
-    
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium"></img></a>   
     
     
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
