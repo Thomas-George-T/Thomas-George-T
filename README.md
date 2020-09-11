@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg?cache=remove)
+![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
 ### Hi there 👋 I'm Thomas George Thomas,
 
