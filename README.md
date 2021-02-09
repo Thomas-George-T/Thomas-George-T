@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium 1"></img></a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/1" alt="Recent Article on medium 2"></img></a>   
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/2" alt="Recent Article on medium 3"></img></a>  
     
 </details>    
 
