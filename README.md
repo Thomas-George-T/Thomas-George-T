@@ -3,13 +3,13 @@
 
 ### Hi there 👋 I'm Thomas George Thomas,
 
-A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A Data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+- ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
-	- Building a Recommender Systems for Movies.
-	- A.I Professional Certification
+	- [x] Building a Recommender Systems for Movies.
+	- [ ] A.I Professional Certification
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
 - 🌱 I’m currently pursuing **Machine learning**.
@@ -56,8 +56,11 @@ Here are some ideas to get you started:
 </details>    
 
 <br>
-    
-**If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
+
+<p align="center">
+	<strong>Consider giving my work a :star: to show some :heart:</strong>
+</p>
+
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
