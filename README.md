@@ -8,8 +8,10 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating thi
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
-	- [x] Building a Recommender Systems for Movies.
 	- [ ] A.I Professional Certification
+	- [ ] Deep learning Project
+	- [ ] Classification Project
+	- [x] Taking a break
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
 - 🌱 I’m currently pursuing **Machine learning**.
@@ -48,11 +50,11 @@ Here are some ideas to get you started:
 <b>My Recent posts on Medium!</b>
 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium 1"></img></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0" alt="Recent Article on medium 1"></img></a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/1" alt="Recent Article on medium 2"></img></a>   
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1" alt="Recent Article on medium 2"></img></a>   
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/2" alt="Recent Article on medium 3"></img></a> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/2" alt="Recent Article on medium 3"></img></a> 
 
 <br>
 
@@ -70,7 +72,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://thomasgeorgethomas.ml/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 <a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@thomas_george_thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>       
