@@ -8,7 +8,7 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating thi
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
-- 	- [X] Getting my Masters in Data Analytics Engineering from Northeastern University, Boston.
+ 	- [X] Getting my Masters in Data Analytics Engineering from Northeastern University, Boston.
 	- [X] Learning R
 	
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
