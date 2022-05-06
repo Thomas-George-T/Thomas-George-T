@@ -5,11 +5,10 @@
 
 A Data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
-
+- 🌱 I’m currently pursuing **Masters in Data Analytics Engineering at Northeastern University, Boston**
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Formula 1 :racing_car:, Memes, Anime, Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
-- 🌱 I’m currently pursuing **Masters in Data Analytics Engineering at Northeastern University, Boston**
 - 🔭 I’m currently working on:
  	- [ ] NoSQL databases
 		- [ ] MongoDB
