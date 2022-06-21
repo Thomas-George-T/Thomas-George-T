@@ -10,8 +10,12 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating thi
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Formula 1 :racing_car:, Memes, Anime, Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
 - 🔭 I’m currently working on:
- 	- [ ] NoSQL databases
+ 	- [ ] Warehousing and Databases
 		- [ ] MongoDB
+		- [ ] Snowflake
+	- [ ] AWS
+		- [ ] Certified Solutions Architect Associate
+		- [ ] Certified Data Analytics Specialty
 
 ### My skills include
 
