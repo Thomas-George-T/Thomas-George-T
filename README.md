@@ -44,17 +44,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<b>My Recent posts on Medium!</b>
-
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0" alt="Recent Article on medium 1"></img></a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/1" alt="Recent Article on medium 2"></img></a>   
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/2" alt="Recent Article on medium 3"></img></a> 
-
-<br>
-
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
